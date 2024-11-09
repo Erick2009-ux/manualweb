@@ -49,6 +49,8 @@ Si volvemos al ejemplo del televisor, existen múltiples tipos de televisores y 
 
 En la clase es dónde realmente definimos las propiedades y métodos que podrán contener cada una de las instancias de los objetos.
 
+Tambien se puede decir que una clase es un cascaron.
+
 Por ejemplo, para nuestro caso de las figuras geométricas podríamos definir un triángulo de la siguiente forma:
 
 ~~~java
